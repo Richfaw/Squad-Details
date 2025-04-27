@@ -1,4 +1,4 @@
-# ⚽ Club Squad Excel Generator (Final Number Fix)
+# ⚽ Club Squad Excel Generator 
 
 Upload a squad list (2 lines per player: Number + Name/Positions).
 
