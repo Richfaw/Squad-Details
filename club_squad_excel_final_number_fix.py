@@ -115,7 +115,7 @@ def process_squad(raw_text, club_name):
     return temp_file.name
 
 # Streamlit App
-st.title("⚽ Club Squad Excel Generator (Final Number Fix)")
+st.title("⚽ Club Squad Excel Generator")
 raw_input_text = st.text_area("Paste your squad list here:", height=400)
 club = st.text_input("Enter club name (e.g., Brighton FC):")
 
